@@ -1,0 +1,5 @@
+{
+  "name": "PEC Arts & Sports",
+  "description": "An Arts & Sports Registration Portal for the College of Engineering, Pathanapuram (PEC). It manages events, registrations, permissions, judging, and house-wise leaderboards with a role-based access system for students, house admins, judges, and a website admin.",
+  "requestFramePermissions": []
+}
